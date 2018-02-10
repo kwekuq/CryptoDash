@@ -1,7 +1,7 @@
 # CryptoDash
 Crytocurrency dashboard written in python and meant to run on a raspberry pi. Let the fun begin...
 
-###Getting started
+### Getting started
 Lets get virtual env going
 
 `sudo apt-get install python-virtualenv`
