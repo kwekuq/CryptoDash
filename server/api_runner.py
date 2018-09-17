@@ -23,4 +23,4 @@ if __name__ == '__main__':
     while True:
         for i in runner.coins:
             runner.fetch_data(i)
-        time.sleep(2000)
+        time.sleep(20)
